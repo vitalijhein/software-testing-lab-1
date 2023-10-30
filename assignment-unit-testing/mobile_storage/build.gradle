@@ -1,0 +1,37 @@
+plugins {
+    id 'java'
+    id 'info.solidsoft.pitest' version '1.4.0'
+}
+
+repositories {
+    mavenCentral()
+    jcenter()
+}
+
+group = 'at.ac.tuwien.inso.peso'
+version = '1.0-SNAPSHOT'
+sourceCompatibility = '1.8'
+
+dependencies {
+    implementation 'org.apache.commons:commons-lang3:3.9'
+    testImplementation 'org.testng:testng:6.14.3'
+    testCompile 'org.testng:testng:6.14.3'
+    compile group: 'commons-io', name: 'commons-io', version: '2.6'
+}
+
+test {
+    useTestNG()
+    testLogging {
+        exceptionFormat = 'short'
+        events "skipped", "failed"
+        debug {
+            exceptionFormat = 'full'
+            events "started", "skipped", "failed"
+        }
+    }
+}
+
+pitest {
+    testPlugin = 'testng'
+    pitestVersion = '1.4.10'
+}

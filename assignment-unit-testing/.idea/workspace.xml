@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30657f7c-b607-4c7c-ba4f-314cb4b3683b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myFlattenPackages" value="true" />
+    <option name="myElementSize" value="130" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="C:\Users\Business\Desktop\coverage-report" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/mobile_storage/build.gradle">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SNHfZD3pvLczG56uzAmZdQsGIc" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$/mobile_storage/gradle/wrapper" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/coverage-report" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn" />
+      <command value="mvn test -Pmutate " />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.MobileStorageTest">
+    <configuration name="MobileStorageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mobile-storage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.ac.tuwien.inso.peso.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.ac.tuwien.inso.peso" />
+      <option name="MAIN_CLASS_NAME" value="at.ac.tuwien.inso.peso.MobileStorageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MobileStorageTest.deleteMessage_CheckIfErrorIsThrownWhileOccupiedZero" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mobile-storage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.ac.tuwien.inso.peso.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.ac.tuwien.inso.peso" />
+      <option name="MAIN_CLASS_NAME" value="at.ac.tuwien.inso.peso.MobileStorageTest" />
+      <option name="METHOD_NAME" value="deleteMessage_CheckIfErrorIsThrownWhileOccupiedZero" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MobileStorageTest.deleteMessage_CheckIfPredecessorIsCorrect" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mobile-storage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.ac.tuwien.inso.peso.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.ac.tuwien.inso.peso" />
+      <option name="MAIN_CLASS_NAME" value="at.ac.tuwien.inso.peso.MobileStorageTest" />
+      <option name="METHOD_NAME" value="deleteMessage_CheckIfPredecessorIsCorrect" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MobileStorageTest.saveMessage_CheckIfStorageSizeIsActuallyMessageSize" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mobile-storage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.ac.tuwien.inso.peso.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.ac.tuwien.inso.peso" />
+      <option name="MAIN_CLASS_NAME" value="at.ac.tuwien.inso.peso.MobileStorageTest" />
+      <option name="METHOD_NAME" value="saveMessage_CheckIfStorageSizeIsActuallyMessageSize" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MobileStorageTest.searchOccurrences_CheckIfSearchCriteriaIsFound" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mobile-storage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.ac.tuwien.inso.peso.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.ac.tuwien.inso.peso" />
+      <option name="MAIN_CLASS_NAME" value="at.ac.tuwien.inso.peso.MobileStorageTest" />
+      <option name="METHOD_NAME" value="searchOccurrences_CheckIfSearchCriteriaIsFound" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.MobileStorageTest" />
+      <item itemvalue="TestNG.MobileStorageTest.searchOccurrences_CheckIfSearchCriteriaIsFound" />
+      <item itemvalue="TestNG.MobileStorageTest.deleteMessage_CheckIfErrorIsThrownWhileOccupiedZero" />
+      <item itemvalue="TestNG.MobileStorageTest.deleteMessage_CheckIfPredecessorIsCorrect" />
+      <item itemvalue="TestNG.MobileStorageTest.saveMessage_CheckIfStorageSizeIsActuallyMessageSize" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.MobileStorageTest" />
+        <item itemvalue="TestNG.MobileStorageTest.saveMessage_CheckIfStorageSizeIsActuallyMessageSize" />
+        <item itemvalue="TestNG.MobileStorageTest.deleteMessage_CheckIfPredecessorIsCorrect" />
+        <item itemvalue="TestNG.MobileStorageTest.deleteMessage_CheckIfErrorIsThrownWhileOccupiedZero" />
+        <item itemvalue="TestNG.MobileStorageTest.searchOccurrences_CheckIfSearchCriteriaIsFound" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30657f7c-b607-4c7c-ba4f-314cb4b3683b" name="Default Changelist" comment="" />
+      <created>1571397236188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571397236188</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="index" language="JAVA" />
+      </configuration>
+      <configuration name="Application">
+        <watch expression="inbox" language="JAVA" />
+        <watch expression="mobileStorage.inbox" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/assignment_unit_testing$C__Users_Business_Downloads_assignment_unit_testing_mobile_storage_build_gradle.ic" NAME="$PROJECT_DIR$/mobile_storage/build.gradle Coverage Results" MODIFIED="1571398156428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/assignment_unit_testing$Main.ic" NAME="Main Coverage Results" MODIFIED="1571469905073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>at.ac.tuwien.inso.peso.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/assignment_unit_testing$MobileStorageTest.ic" NAME="MobileStorageTest Coverage Results" MODIFIED="1572378283765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>at.ac.tuwien.inso.peso.*</FILTER>
+    </SUITE>
+  </component>
+</project>
